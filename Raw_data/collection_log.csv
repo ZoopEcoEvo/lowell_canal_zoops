@@ -1,2 +1,1 @@
 id,date,time,site,site_code,sample_code,replicates,sample_type,volume_sampled_l,mesh_size_um,collected_by,weather,water_temp_c,conductivity_us_cm,water_depth_m,water_speed,water_clarity,plankton_abundance,notes,logged_at
-20261002161522-h7998n,2026-09-30,12:15,Pawtucket Canal,PW,2640,1,Plankton net,9999,240,MCS/JP,Overcast,17.1,298,,Still,Turbid,High,Large storm several days ago,2026-10-02T16:15:22.866Z
