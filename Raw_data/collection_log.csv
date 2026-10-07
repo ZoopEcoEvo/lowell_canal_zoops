@@ -1,2 +1,3 @@
-id,date,time,site,site_code,sample_code,replicates,sample_type,volume_sampled_l,mesh_size_um,collected_by,weather,water_temp_c,conductivity_us_cm,water_depth_m,water_speed,water_clarity,plankton_abundance,notes,logged_at
-20261002162025-oaamm1,2026-09-30,12:19,Northern Canal,NR,2640,1,Plankton net,0,240,MCS/JP,Overcast,17.1,298,,Still,Turbid,High,Large storm during the previous weekend,2026-10-02T16:20:25.776Z
+id,date,time,site,site_code,sample_code,replicates,sample_type,volume_sampled_l,mesh_size_um,collected_by,weather,water_temp_c,conductivity_us_cm,water_depth_m,water_speed,water_clarity,plankton_abundance,notes,photos,logged_at
+20261002162025-oaamm1,2026-09-30,12:19,Northern Canal,NR,2640,1,Plankton net,0,240,MCS/JP,Overcast,17.1,298,,Still,Turbid,High,Large storm during the previous weekend,,2026-10-02T16:20:25.776Z
+20261007154052-mq6cb3,2026-10-07,11:39,Pawtucket Canal,PW,2641,1,Plankton net,0,240,MCS/JP,"Sunny, cool-ish",16.8,227,,Slow,Slightly turbid,Very Low,,2026/PW_2641_2026-10-07_1139_1.jpg,2026-10-07T15:40:52.216Z
