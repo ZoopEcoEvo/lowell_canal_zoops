@@ -18,3 +18,4 @@ id,date,time,site,site_code,sample_code,replicates,sample_type,volume_sampled_l,
 20261111175156-iuybf3,2026-11-11,12:50,Northern Canal,NR,2646,1,Vertical sampler,5,64,MCS,Sunny,11.2,334,,Still,Slightly turbid,Medium,,2026/NR_2646_2026-11-11_1250_1.jpg,2026-11-11T17:51:56.486Z
 20261118154022-xxxe80,2026-11-18,10:39,Pawtucket Canal,PW,,0,Plankton net,,64,MCS,,,,,,,,Canal drained,2026/PW_2026-11-18_1039_1.jpg,2026-11-18T15:40:22.461Z
 20261118154719-2ni0gy,2026-11-18,10:46,Western Canal,WS,,0,Plankton net,,64,MCS,,,,,,,,Canal drained,2026/WS_2026-11-18_1046_1.jpg,2026-11-18T15:47:19.519Z
+20261118160204-4be1qo,2026-11-18,10:54,Northern Canal,NR,2647,1,Plankton net,,240,MCS,Sunny,8.3,411,,Still,Slightly turbid,Low,Water level is lower than in past weeks; did a horizontal tow instead of vertical,2026/NR_2647_2026-11-18_1054_1.jpg,2026-11-18T16:02:04.373Z
