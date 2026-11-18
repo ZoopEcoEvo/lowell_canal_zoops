@@ -16,3 +16,4 @@ id,date,time,site,site_code,sample_code,replicates,sample_type,volume_sampled_l,
 20261028161130-5xsa4a,2026-10-28,11:59,Northern Canal,NR,2644,1,Plankton net,0,240,MCS/JP,"Sunny, cool",10.8,315,,Still,Slightly turbid,Medium,,2026/NR_2644_2026-10-28_1159_1.jpg,2026-10-28T16:11:30.889Z
 20261111174025-mflql8,2026-11-11,12:28,Western Canal,WS,2646,2,Plankton net,0,240,MCS,Sunny,10.9,257,,Still,Slightly turbid,Low,Lots of debris on the surface,2026/WS_2646_2026-11-11_1228_1.jpg,2026-11-11T17:40:25.840Z
 20261111175156-iuybf3,2026-11-11,12:50,Northern Canal,NR,2646,1,Vertical sampler,5,64,MCS,Sunny,11.2,334,,Still,Slightly turbid,Medium,,2026/NR_2646_2026-11-11_1250_1.jpg,2026-11-11T17:51:56.486Z
+20261118154022-xxxe80,2026-11-18,10:39,Pawtucket Canal,PW,,0,Plankton net,,64,MCS,,,,,,,,Canal drained,2026/PW_2026-11-18_1039_1.jpg,2026-11-18T15:40:22.461Z
